@@ -1,4 +1,7 @@
 data/
 .ipynb_checkpoints/
 images/
+__pycache__/
 .DS_Store
+
+state_config.py
